@@ -10,7 +10,8 @@
     "excludedFolders": [
       "test"
     ],
-    "buildRequired": true
+    "buildRequired": true,
+    "lastBuildDateTime": "Tue, 25 Jun 2019 09:06:15 GMT"
   },
   "generation": [
     {
@@ -49,5 +50,9 @@
     "notifyBeforePushLevel": "Error",
     "blockPush": false,
     "blockPushLevel": "Error"
+  },
+  "deploy": {
+    "destination": "S4H",
+    "name": "ZDEMO_FIORI"
   }
 }
